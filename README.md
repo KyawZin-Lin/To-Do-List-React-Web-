@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This tiny project need react and json server. You can check how to install json server from (https://www.npmjs.com/package/json-server) this .
 
 Currently, two official plugins are available:
 
